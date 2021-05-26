@@ -139,3 +139,6 @@ body {
 .footer a {
   padding-left: 20px;
 }
+.footer a:hover {
+  text-decoration: underline;
+}
